@@ -4,4 +4,4 @@
 
 > 说明：项目没有用到任何数据库，全是读取的本地JSON文件。
 
-> 演示：https://joe960913.github.io/vue-shopcar/
+> by Zzt
